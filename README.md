@@ -1,6 +1,5 @@
-Skills & Technologies for your GitHub profile
+Skills & Technologies
 
-Copy this (it should be fully visible now):
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-orange)
